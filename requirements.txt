@@ -1,0 +1,12 @@
+# Everything this game needs. On your machine these are ALREADY installed,
+# so you don't have to run anything. This file is here so that if you ever
+# move the project to a fresh computer you can reinstall with:
+#
+#     pip3 install -r requirements.txt
+#
+# opencv-python -> the "cv2" module: webcam capture + drawing on frames + showing a window
+# mediapipe     -> Google's hand-detection model (gives us 21 dots per hand)
+#
+# (numpy comes along automatically as a dependency of both.)
+opencv-python
+mediapipe
