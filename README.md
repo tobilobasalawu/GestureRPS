@@ -1,4 +1,4 @@
-# Gesture Rock Paper Scissors ✊✋✌️
+# Gesture Rock Paper Scissors
 
 Play Rock Paper Scissors against the computer using nothing but your webcam and your hand.
 No controller, no mouse clicks — just throw a real gesture at the camera and the game reads it.
